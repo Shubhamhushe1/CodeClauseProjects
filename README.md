@@ -21,7 +21,7 @@ Run the application, choose "Lock Folder," and enter the password.
 Run the application, select "Unlock Folder," and provide the password.
 
 ## Security
-Password is currently hardcoded (123). For production, consider implementing a more secure password management system.
+Password is currently hardcoded (123).
 
 ## Notes
 - Console-based interface for simplicity.
